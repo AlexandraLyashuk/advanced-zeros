@@ -1,5 +1,4 @@
 module.exports = function getZerosCount(number, base) {
-  getZerosCount(number, base) {
     let n = 2;
     let i = 0;
     let primeArray = [];
